@@ -1,0 +1,27 @@
+9/4/19:
+
+Any binary function only needs and, or & not gates.
+
+Not & And gates are 'Universal Gates' 
+    - (not A & not A <=> not A)
+    - (not not (A & B) <=> A & B)
+    
+DeMorgan's Law: (Not (A & B) <=> not A or not B)
+
+Fredkin Gate (Universal gate)
+    - Number of 1s in a Fredkin gate never changes
+    - "You don't need power for computation if you're willing to wait"
+    - Can be used in quantum computing. (Quantum Fredkin Gates)
+    
+Multiplexer (Mux):
+
+HDL/VHDL: Hardware Description Language
+    - Describes Boolean logic
+    
+D Flip Flop: Stores binary data that can only be changed at the clock edge
+    - Commonly used for synchronization
+    - (https://electronicsforu.com/resources/learn-electronics/flip-flop-rs-jk-t-d)
+    
+N-Bit Register:
+    - 
+Finite State Machines:
