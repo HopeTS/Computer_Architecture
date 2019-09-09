@@ -1,0 +1,43 @@
+Computer Architecture:
+	- What the programmer sees
+	- Targets Instruction Set Architecture
+	- Working with Comp Architecture with assembly
+
+Computer Organization:
+	
+
+IBM System 370 Architecture:
+	- Introduced 1970
+	- Included multiple models
+	- Able to upgrade to faster model without abandoning original software
+	- New models improve technology but retain architecture
+	- This architecture survived to today, being used in IBM mainframe product line
+
+Structure/Function:
+	- Hierarchical system
+	- Hierarchical nature of complex systems essential for design and description
+	- Designer works with a single level of the system at a time
+	- Structure: Way components relate to each other
+	- Function: Operation of individual components as part of the structure
+
+Function:
+	- Four basic functions computers perform:
+		- Data processing
+		- Data storage
+		- Data movement
+			- I/O
+			- Data communications (internal and external networking)
+		- Control
+			- Control unit manages computer resources and orchestrates performance of functional parts
+
+HISTORY OF COMPUTERS
+
+First Gen: vacuum tubes:
+	- Vacuum tubes used for digital logic elements and memory
+	- IAS Computer
+		- Fundamental design approach was the stored program concept
+			- von Neumann
+			- First publication of idea in 1945 for EDVAC
+		- Design began in Princeton university
+
+
