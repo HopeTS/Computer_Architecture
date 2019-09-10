@@ -4,29 +4,29 @@ ___
 ###### 9/4/19
 
 #### _DeMorgan's Law_:
-    - (!(A & B) <=> !A || !B)
+    1. (!(A & B) <=> !A || !B)
 
 #### _Universal Gates_:
-    - Not & And gates
-    - Fredkin Gate
-    - (!A & !A <=> !A)
-    - (!!(A & B) <=> A & B)
+    1. Not & And gates
+    2. Fredkin Gate
+    3. (!A & !A <=> !A)
+    4. (!!(A & B) <=> A & B)
 
 #### _Fredkin Gate_:
-    - Number of 1's in a Fredkin gate never changes
-    - "You don't need power for computation if you're willing to wait."
-    - Can be used in quantum computing. (Quantum Fredkin Gate)
+    1. Number of 1's in a Fredkin gate never changes
+    2. "You don't need power for computation if you're willing to wait."
+    3. Can be used in quantum computing. (Quantum Fredkin Gate)
 
 #### _Multiplexer_ (Mux):
 
 #### _HDL/VHDL_:
-    - Hardware Description Language
-    - Used to describe boolean logic
+    1. Hardware Description Language
+    2. Used to describe boolean logic
 
 #### _D Flip Flop_:
-    - Stores binary data that can only be changed at the clock edge
-    - Commonly used for synchronization
-    - (https://electronicsforu.com/resources/learn-electronics/flip-flop-rs-jk-t-d)
+    1. Stores binary data that can only be changed at the clock edge
+    2. Commonly used for synchronization
+    3. (https://electronicsforu.com/resources/learn-electronics/flip-flop-rs-jk-t-d)
 
 #### N-Bit Register:
 
@@ -38,9 +38,9 @@ ___
 ###### 9/9/19
 
 #### _Computer Architecture_:
-    - What the programmer sees
-    - Targets ISA (_Instruction Set Architecture_)
-    - Assembly deals directly with computer architecture
+    1. What the programmer sees
+    2. Targets ISA (_Instruction Set Architecture_)
+    3. Assembly deals directly with computer architecture
 
 #### _Computer Organization_:
 
