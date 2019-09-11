@@ -1,0 +1,18 @@
+1965: Gordon Moore - co-founder of Intel
+
+Moore's Law: Number of transistors per unit area doubles every 6 (now 18) months
+  Consequences:
+    - Cost of computer logic/memory fallen dramatically
+    - Electrical path length is shortened. operating speed++
+    - Computers get smaller
+    - Reduction in power/cooling requirements
+    - Fewer interchip connections
+
+16 MiB <=> 2^4 * 2^10 * 2^10 <=> 2^4 * 2^20
+
+(Finish copying from ppt!!!!)
+Summary:
+  - Organization & Architecture
+  - Structure & function
+  - The IAS computer
+  - Gates, memory cells, chips, multichip modules
