@@ -1,0 +1,15 @@
+Instruction sequence to multiply matrices (Row Major):
+
+L-100,L-10c,L-101,L-10e,L-102,L-110,L-103,L-112,S-114,L-100,L-10d,L-101,L-10f,L-102,L-111,L-103,L-113,S-115,L-104,L-10c,L-105,L-10e,L-106,L-110,L-107,L-112,S-116,L-104,L-10d,L-105,L-10f,L-106,L-111,L-107,L-113,S-117,L-108,L-10c,L-109,L-110,L-10b,L-112,S-118,L-108,L-10d,L-109,L-10f,L-109,L-111,L-106,L-113,S-119
+
+Instruction sequence to multiply matrices (Column Major):
+
+L-100,L-10C,L-101,L-10D,L-102,L-11E,L-103,L-10F,S-10F,L-100,L-110,L-101,L-111,L-102,L-112,L-103,L-113,S-115,L-104,L-10C,L-105,L-10D,L-106,L-10E,L-107,L-10F,S-116,L-104,L-110,L-105,L-111,L-106,L-112,L-107,L-113,S-117,L-108,L-10C,L-109,L-10D,L-10A,L-10E,L-10B,L-10F,S-118,L-108,L-110,L-109,L-111,L-10A,L-112,L-10B,L-113,S-119
+
+
+
+(Take screenshots of webpage)
+
+The two cache types that had the highest success rate were the 4-Way Set Associative Cache and the Fully Associative Cache, both had an 81% hit rate, but since the Fully Associative Cache used more than twice as many resources, the 4-Way Set Associative Cache is the better option.
+
+In column major, all caches use similar resources, but the 2-Way Set Associative Cache hit rate decreases from 73% to 72%.
