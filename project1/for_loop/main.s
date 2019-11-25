@@ -17,4 +17,4 @@ loop:
 	add r0, r0, #1	/* x++ */
 	b for
 end:
-	bx lr
+	SWI 0

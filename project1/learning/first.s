@@ -2,4 +2,4 @@
 
 main:
 	mov r0, #2
-	bx lr
+	SWI 0

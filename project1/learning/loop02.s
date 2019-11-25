@@ -12,4 +12,4 @@ check_loop:
 	ble loop
 end:
 	mov r0, r1
-	bx lr
+	SWI 0

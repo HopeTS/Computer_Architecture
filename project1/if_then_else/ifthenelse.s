@@ -15,4 +15,4 @@ else:
 	mov r0, #2
 	b end
 end:
-	bx lr
+	SWI 0

@@ -5,4 +5,4 @@ main:
 	b end
 	mov r0, #3
 end:
-	bx lr
+	SWI 0

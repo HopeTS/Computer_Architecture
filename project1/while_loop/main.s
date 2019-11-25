@@ -20,4 +20,4 @@ while:
 
 end:
 	mov r0, r2
-	bx lr
+	SWI 0

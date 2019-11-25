@@ -17,7 +17,7 @@ main:
         ldr r2, addr_of_myvar2
         ldr r2, [r2]
         add r0, r1, r2
-        bx lr
+        SWI 0
 
 addr_of_myvar1 : .word myvar1
 addr_of_myvar2 : .word myvar2

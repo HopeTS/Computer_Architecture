@@ -14,4 +14,4 @@ case_equal:
 	mov r0, #1
 
 end:
-	bx lr
+	SWI 0

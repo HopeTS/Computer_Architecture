@@ -29,7 +29,7 @@ else:
 	mov r0, #7
 	b end
 end:
-	bx lr
+	SWI 0
 
 var1_addr : .word var1
 var2_addr : .word var2
