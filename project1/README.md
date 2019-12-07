@@ -7,7 +7,8 @@ For the while loop, the main branch loads the values into the registers. 10 in r
 ___
 ### Conditional Assignment
 
-<img src="./screenshots/ca_lt.png">
+For the conditional assignment, the main branch loads the values into r1 and r2. If r1 is less than r2, the value 2 is loaded into r0. If not, the value 7 is loaded into r0.
+
 <img src="./screenshots/ca_gt.png">
 
 ___
