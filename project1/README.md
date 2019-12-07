@@ -21,5 +21,7 @@ For the for loop, the main branch loads 0 into r1 and r0 and 15 into r2. For eac
 ___
 ### If Then ELse
 
+For if then else, in the main branch the values are loaded into r1 and r2. In the if branch, r1 and r2 are compared. If r1 is less then r2, then the value 1 is loaded into r0. Else, the value 2 is loaded into r0.
+
 <img src="./screenshots/ite_lt.png">
 ___
