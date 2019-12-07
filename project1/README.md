@@ -14,6 +14,8 @@ For the conditional assignment, the main branch loads the values into r1 and r2.
 ___
 ### For Loop
 
+For the for loop, the main branch loads 0 into r1 and r0 and 15 into r2. For each number in between 0 and 15, r1 and r0 are incremented in the for and loop branches.
+
 <img src="./screenshots/fl.png">
 
 ___
