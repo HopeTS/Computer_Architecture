@@ -10,7 +10,7 @@ Project 1
 
 For the while loop, the main branch loads the values into the registers. 10 in r1, 0 in r2 and r3, and 1 in r4. This is followed by the loop branch, which compares r1 to r2. While r1 is greater than r2, the while branch executes which adds 1 to r2. Once r1 is not greater than r2, the end branch executes, which moves the value of r2 into r0.
 
-<img src="./screenshots/wl.png">
+[While loop image](./screenshots/wl.png)
 
 ___
 ### Conditional Assignment
