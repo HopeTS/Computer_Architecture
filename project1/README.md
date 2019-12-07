@@ -15,21 +15,27 @@ For the while loop, the main branch loads the values into the registers. 10 in r
 ___
 ### Conditional Assignment
 
+[Assembly file](./conditional_assignment/main.s)
+
 For the conditional assignment, the main branch loads the values into r1 and r2. If r1 is less than r2, the value 2 is loaded into r0. If not, the value 7 is loaded into r0.
 
-<img src="./screenshots/ca_gt.png">
+[Conditional Assignment](./screenshots/ca_gt.png)
 
 ___
 ### For Loop
 
+[Assembly file](./for_loop/main.ss)
+
 For the for loop, the main branch loads 0 into r1 and r0 and 15 into r2. For each number in between 0 and 15, r1 and r0 are incremented in the for and loop branches.
 
-<img src="./screenshots/fl.png">
+[For loop image](./screenshots/fl.png)
 
 ___
 ### If Then ELse
 
+[Assembly file](./if_then_else/ifthenelse.s)
+
 For if then else, in the main branch the values are loaded into r1 and r2. In the if branch, r1 and r2 are compared. If r1 is less then r2, then the value 1 is loaded into r0. Else, the value 2 is loaded into r0.
 
-<img src="./screenshots/ite_lt.png">
+[If then else image](./screenshots/ite_lt.png)
 ___
